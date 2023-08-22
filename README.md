@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Ferreira</h1>
-<h3 align="center">Fullstack Developer based in Brazil;</h3>
+<h3 align="center">Fullstack Developer based in Brazil 🔭 Currently building stuff at LeadMark</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/victor-ferreira-1a899b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-ferreira-1a899b193" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-ferreira-1a899b193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-ferreira-1a899b193/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
